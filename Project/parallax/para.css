@@ -1,0 +1,21 @@
+.first{
+    background-color: aqua;
+    width: 200px;
+    height: 300px;
+}
+.second{
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+}
+.third{
+    background-color:yellow;
+    width: 150px;
+    height: 150px;
+
+}
+.four{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
